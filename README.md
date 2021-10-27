@@ -13,8 +13,8 @@ Details of the dataset construction and experimental results can be found in our
     booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
     year      = {2021}
     }
-
-By downloading this dataset, USER agrees:
+    
+Please follow this [**LINK**](https://forms.gle/4gvffdhc65rBZkJn9) to download the PhoMT dataset. By downloading this dataset, USER agrees:
 -   to use the dataset for research or educational purposes only.
 -   to not distribute or part of the dataset in any original or modified form.
 -   and to cite our EMNLP 2021 paper "PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation" whenever the dataset is used to help produce published results.
