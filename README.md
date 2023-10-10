@@ -20,6 +20,8 @@ Please follow this [**LINK**](https://forms.gle/4gvffdhc65rBZkJn9) to download t
 -   to not distribute the dataset or part of the dataset in any original or modified form.
 -   and to cite our EMNLP 2021 paper "PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation" whenever the dataset is used to help produce published results.
 
+Note: We performed Vietnamese tone normalization on the Vietnamese sentences, using a [Python script](https://github.com/VinAIResearch/BARTpho/blob/main/VietnameseToneNormalization.md).
+
 #### Copyright (c) 2021 VinAI Research
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
