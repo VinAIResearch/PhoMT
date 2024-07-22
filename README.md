@@ -22,7 +22,7 @@ Please follow this [**LINK**](https://forms.gle/4gvffdhc65rBZkJn9) to download t
 
 Note: We performed Vietnamese tone normalization on the Vietnamese sentences, using a [Python script](https://github.com/VinAIResearch/BARTpho/blob/main/VietnameseToneNormalization.md).
 
-#### Copyright (c) 2021 VinAI Research
+#### Copyright (c) 2021 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
