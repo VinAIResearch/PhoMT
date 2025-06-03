@@ -15,7 +15,7 @@ Details of the dataset construction and experimental results can be found in our
     pages     = {4495--4503}
     }
     
-Please follow this [**LINK**](https://forms.gle/4gvffdhc65rBZkJn9) to download the PhoMT dataset. By downloading this dataset, USER agrees:
+Please follow this [**LINK**](https://huggingface.co/datasets/vinai/PhoMT) to download the PhoMT dataset. By downloading this dataset, USER agrees:
 -   to use the dataset for research or educational purposes only.
 -   to not distribute the dataset or part of the dataset in any original or modified form.
 -   and to cite our EMNLP 2021 paper "PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation" whenever the dataset is used to help produce published results.
